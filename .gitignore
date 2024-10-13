@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Data directory
+data/
+
+# Environment variables file
+.env
+
+# Virtual environment
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
